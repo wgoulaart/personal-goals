@@ -1,4 +1,4 @@
-# Personal Goals :metal:
+![](personal-goals-logo.png)
 
 ## Overarching Goals
 1. Create Blog & Write blog posts
