@@ -7,8 +7,8 @@
 5. Learn about React, Vue.js, WebAnimations API, Javascript Vanilla, ES6, Webpack & Electron.
 
 ## Things I'll Do This Week:
-- [ ] Practice 5 - 10 minutes of Meditation every morning
-- [ ] Practice exercices of English on Anki, 15 minutes for day
+- [X] Practice 5 - 10 minutes of Meditation every morning
+- [X] Practice exercices of English on Anki, 15 minutes for day
 - [ ] Watch 1 video from my list of English content for day
 
 ### Things I'll Do This Month: January 2018
