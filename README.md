@@ -27,6 +27,7 @@
 2. Build Random Quote with Vue.js
 3. Build Local Weather with React
 4. Create a CLI to get the movies with schedules on cinemas in my city
+5. Create a module npm
 
 Note: This repo was inspired by personal goals project by [Una Kravets](https://twitter.com/Una)
 can be found [here](https://github.com/una/personal-goals).
