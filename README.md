@@ -6,6 +6,7 @@
 2. Contribute to Open Source
 3. Get better at English, Programming & Comunication.
 4. Learn about React, Vue.js, WebAnimations API, Javascript Vanilla, ES6, Webpack & Electron.
+5. Read My Books that I haven't finished yet 📝
 
 ## Follow my Dailylog
 
@@ -16,6 +17,7 @@
 * [ ] Create a website & blog
 * [ ] Practice Meditation
 * [ ] Finish any Course on my [list](courses.md).
+* [ ] Reade my books i havan't finished - [My Books](books.md).
 
 ### Things I'll Do to Nexts Months: January - Jun 2018.
 
