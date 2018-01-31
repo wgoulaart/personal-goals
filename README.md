@@ -25,11 +25,12 @@
 
 ### Backlog: Code Things I Want to Do/Play With
 
-1. Create Pomodoro timer with Electron
-2. Build Random Quote with Vue.js
-3. Build Local Weather with React
-4. Create a CLI to get the movies with schedules on cinemas in my city
-5. Create a module npm
+1. Create an Electronic Point Control System (EPOS) with Electron
+2. Create Pomodoro timer with Electron
+3. Build Random Quote with Vue.js
+4. Build Local Weather with React
+5. Create a CLI to get the movies with schedules on cinemas in my city
+6. Create a module npm
 
 Note: This repo was inspired by personal goals project by [Una Kravets](https://twitter.com/Una)
 can be found [here](https://github.com/una/personal-goals).
