@@ -17,6 +17,9 @@
 * [ ] Practice Meditation
 * [ ] Finish any Course on my [list](courses.md).
 
+## Things I'll Do This Month: February 2018
+* [ ] Finish all the things of the month of January
+
 ### Things I'll Do to Nexts Months: January - Jun 2018.
 
 * [ ] Finish [My List Courses](courses.md)
@@ -40,4 +43,4 @@ can be found [here](https://github.com/una/personal-goals).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
