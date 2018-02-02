@@ -6,6 +6,7 @@
 2. Contribute to Open Source
 3. Get better at English, Programming & Comunication.
 4. Learn about React, Vue.js, WebAnimations API, Javascript Vanilla, ES6, Webpack & Electron.
+5. Read My Books that I haven't finished yet 📝
 
 ## Follow my Dailylog
 
@@ -16,6 +17,7 @@
 * [ ] Create a website & blog
 * [ ] Practice Meditation
 * [ ] Finish any Course on my [list](courses.md).
+* [ ] Reade my books i havan't finished - [My Books](books.md).
 
 ## Things I'll Do This Month: February 2018
 * [ ] Finish all the things of the month of January
@@ -26,11 +28,12 @@
 
 ### Backlog: Code Things I Want to Do/Play With
 
-1. Create Pomodoro timer with Electron
-2. Build Random Quote with Vue.js
-3. Build Local Weather with React
-4. Create a CLI to get the movies with schedules on cinemas in my city
-5. Create a module npm
+1. Create an Electronic Point Control System (EPOS) with Electron
+2. Create Pomodoro timer with Electron
+3. Build Random Quote with Vue.js
+4. Build Local Weather with React
+5. Create a CLI to get the movies with schedules on cinemas in my city
+6. Create a module npm
 
 Note: This repo was inspired by personal goals project by [Una Kravets](https://twitter.com/Una)
 can be found [here](https://github.com/una/personal-goals).
