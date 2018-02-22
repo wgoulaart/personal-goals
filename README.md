@@ -44,6 +44,5 @@ can be found [here](https://github.com/una/personal-goals).
 | :------------------------------------------------------------------------: |
 |              [William Goulart](https://github.com/wgoulart/)               |
 
-## License
-
+## License  
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
