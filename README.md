@@ -1,4 +1,4 @@
-![](personal-goals-logo.png)
+![](personal-goals-logo.png)  
 
 ## Overarching Goals
 
