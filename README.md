@@ -19,10 +19,7 @@
 * [ ] Finish any Course on my [list](courses.md).
 * [ ] Reade my books i havan't finished - [My Books](books.md).
 
-## Things I'll Do This Month: February 2018
-* [ ] Finish all the things of the month of January
-
-### Things I'll Do to Nexts Months: January - Jun 2018.
+### Things I'll Do to this Year 2018.
 
 * [ ] Finish [My List Courses](courses.md)
 
