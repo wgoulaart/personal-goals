@@ -1,6 +1,7 @@
 # My List of Courses 🎬
 
-## Javascript & Libs  
+## Javascript & Libs
+
 - [ ] [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 - [ ] [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 - [ ] [Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/vue-web-apps/)
@@ -16,17 +17,21 @@
 - [x] [Vue JS 2.0 - Mastering Web Apps](https://www.udemy.com/vue-web-apps/)
 
 ## Git & Github
+
 - [ ] [Git e Github na Vida Real](https://www.udemy.com/git-e-github-na-vida-real/)
 
 ## Design & SVG
+
 - [ ] [Aprendendo SVG Do Início ao Avançado](https://www.udemy.com/aprendendo-svg-do-inicio-ao-avancado)
 - [ ] [Aprenda a criar sites animados com Greensock](https://www.udemy.com/aprenda-a-criar-sites-animados-com-greensock/)
 - [ ] [How to Design & Prototype in Adobe XD](https://www.udemy.com/adobe-xd-experience-design)
 
 ## Wes Boss
+
 - [ ] [ES6 For Everyone](https://es6.io/)
 - [ ] [React For Beginners](https://reactforbeginners.com/)
 - [ ] [Javascript 30](https://javascript30.com/)
 
 ## Misc
+
 - [ ] Mairo Vergara 3.0

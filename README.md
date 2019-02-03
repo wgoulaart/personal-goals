@@ -1,4 +1,4 @@
-![](personal-goals-logo.png)  
+# ![personal goals logo](personal-goals-logo.png)  
 
 ## Overarching Goals
 
@@ -10,16 +10,16 @@
 
 ## Follow my Dailylog
 
-### 📝 [Dailylog](https://github.com/wgoulart/dailylog) :metal:
+### 📝 [Dailylog](https://github.com/wgoulart/dailylog) 🤘
 
-### Things I'll Do to this Year.
+### Things I'll Do to this Year
 
 * [ ] Create a website & blog
 * [ ] Practice Meditation
 * [ ] Finish [My List Courses](courses.md)
 * [ ] Read all books in [My list Books](books.md).
 
-### Backlog: Code Things I Want to Do/Play With
+## Backlog: Code Things I Want to Do/Play With
 
 1. Build Random Quote with Vue.js
 2. Build Local Weather with React
@@ -32,5 +32,6 @@
 | :------------------------------------------------------------------------: |
 |  [William Goulart](https://github.com/wgoulart/)               |
 
-## License  
+## License
+
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
