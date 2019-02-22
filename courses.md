@@ -18,7 +18,7 @@
 
 ## Git & Github
 
-- [ ] [Git e Github na Vida Real](https://www.udemy.com/git-e-github-na-vida-real/)
+- [x] [Git e Github na Vida Real](https://www.udemy.com/git-e-github-na-vida-real/)
 
 ## Design & SVG
 
