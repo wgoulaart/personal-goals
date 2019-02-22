@@ -2,7 +2,7 @@
 
 | Book                                                                        | Pages | Pages read / Percentage | Status  |
 | --------------------------------------------------------------------------- | ----- | ----------------------- | ------- |
-| Assertividade - Em uma Semana                                               | 153   | 73%                     | Reading |
+| Assertividade - Em uma Semana                                               | 153   | 86%                     | Reading |
 | A Sutil Arte de Ligar o F*da-se                                             | 172   | 0                       | -       |
 | Refactoring UI Book                                                         | 218   | 0                       | -       |
 | Rápido e Devagar - Duas Formas de Pensar                                    | 642   | 40                      | -       |
