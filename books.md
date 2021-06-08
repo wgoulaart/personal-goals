@@ -15,3 +15,4 @@
 | Mindset: A nova psicologia do sucesso                                       | 342   | 0                       | -       |
 | Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso           | 175   | 0                       | -       |
 | O Melhor do JavaScript                                                      | 172   | 0                       | -       |
+| Essencialismo                                                      | 172   | 0                       | -       |
